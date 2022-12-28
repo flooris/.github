@@ -15,5 +15,5 @@ Give our team an online challenge! We will come up with and implement the right 
 
 
 [website]: https://flooris.nl
-[facebook]: https://www.facebook.com/floorisnl/o
+[facebook]: https://www.facebook.com/floorisnl/
 [linkedin]: https://www.linkedin.com/company/flooris/
