@@ -1,4 +1,4 @@
-# Flooris B.V.
+# flooris B.V.
 Give our team an online challenge! We will come up with and implement the right manageable online solutions without hassle. Our team operates as an extension alongside our customer teams.
 
 ## Socials
